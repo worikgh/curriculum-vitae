@@ -38,3 +38,11 @@ In my spare time I make musical instruments from computers....
 * [Novation LPX Controller](https://github.com/worikgh/lpx_ctl) Make an LPX a universal MIDI device
 * (Guitar Effects Simulator)[https://github.com/worikgh/120Pedal] Simulate guitar effects using [Jackd](https://jackaudio.org/)
 * [MIDI COntrolled Sample Player](https://github.com/worikgh/midi_sample) Play audio samples in response to MIDI notes
+
+Language/Systems
+---
+* Rust, C/C++
+* Typescript/Javascript and Node.js
+* Swift and Dart on iOS
+* Containers: Docker and LXD
+* Linux
