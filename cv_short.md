@@ -24,7 +24,7 @@ Commercial:
 * 2020 - 2024: QuickCustom Intelligence Swift and Dart on iOS.  C/C++, Javascript
 * 2002 - 2003: Blue Star Group: C (CGI), Perl (Financials)
 * 2000 - 2001: Intel Via Computer Sciences Corporation C++ Telephony
-* 1999 - 2000: Noggn Ltd: Perl CGI Web App 
+* 1999 - 2000: Noggn Ltd: Perl CGI Web App
 * 1997-1999: Monitor Business Machines: C/C++ Printer control software
 
 Academic:
